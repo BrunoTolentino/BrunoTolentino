@@ -29,4 +29,10 @@
   <a href="https://www.linkedin.com/in/bruno-tolentino-basso/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
 </div>
 
+<div>
+  <img src="https://raw.githubusercontent.com/BrunoTolentino/BrunoTolentino/output/snake.svg" alt="Snake animation" />
+</div>
+
+
+
 
